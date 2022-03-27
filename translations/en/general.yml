@@ -1,11 +1,11 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
-indicator: Indicator
+indicator: Ávísi
 # This is the plural version of the indicator key
-indicators: Indicators
+indicators: Ávísar
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: Goal
+goal: Mál
 # This is the plural version of the goal key
-goals: Goals
+goals: Mál
 sdg: Sustainable Development Goals
 # This refers to the 'home page' of a website
 home: Home
@@ -19,7 +19,7 @@ facebook: Facebook
 built_using_open_sdg: Built using Open SDG
 page: Page
 pages: Pages
-targets_and_indicators: Targets and indicators
+targets_and_indicators: Undirmál og ávísar
 # A label of "Warning" to place before some other text.
 label_warning: "Warning:"
 # A phrase to use as a site-wide page title.
