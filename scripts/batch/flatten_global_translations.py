@@ -10,7 +10,7 @@ def export_yaml(data, filename):
     with open(filename, 'w') as outfile:
         yaml.dump(data, outfile, default_flow_style=False, allow_unicode=True)
 
-languages = ['am', 'ar', 'de', 'en', 'es', 'fr', 'kz', 'ru', 'zh-Hans']
+languages = ['am', 'ar', 'de', 'en', 'es', 'fr', 'kz', 'ru', 'zh-Hans', 'fo']
 fields = {
     'global_goals': ['short', 'title'],
     'global_targets': ['title'],
