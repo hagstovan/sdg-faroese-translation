@@ -3,12 +3,12 @@ indicator: Ávísi
 # This is the plural version of the indicator key
 indicators: Ávísar
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: Goal
+goal: Mál
 # This is the plural version of the goal key
-goals: Goals
-sdg: Sustainable Development Goals
+goals: Mál
+sdg: Mál fyri burðardyggari menning
 # This refers to the 'home page' of a website
-home: Home
+home: Heim
 loading: Loading search results
 opens_new_window: opens in a new window
 hide: hide
